@@ -1,0 +1,115 @@
+@import url("https://use.typekit.net/jmk3xov.css");
+@import url("https://fonts.googleapis.com/css2?family=Creepster&display=swap");
+
+body {
+  overflow-x: hidden;
+}
+
+canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+:root {
+  --dark-bg: rgba(15, 15, 15, 0.95);
+  --spacing: 350px;
+  font-weight: 100;
+  font-style: normal;
+}
+
+main {
+  color: white;
+  z-index: 99;
+  position: absolute;
+  width: 100%;
+  max-width: 500px;
+  padding: 3% 3%;
+  padding: 1rem;
+  font-size: 1.2rem;
+  line-height: 1.5;
+  background: var(--dark-bg);
+  margin-bottom: var(--spacing);
+}
+
+h1,
+h2,
+h3,
+p,
+blockquote {
+  font-weight: 200;
+  font-style: normal;
+  font-size: x-large;
+  font-family: "Creepster", cursive;
+  max-width: 100%;
+}
+
+canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+header {
+  background: var(--dark-bg);
+  grid-column: 2 / span 5;
+  font-size: 1rem;
+  padding: 1rem;
+  margin-bottom: var(--spacing);
+}
+
+section {
+  grid-column: 1 / 12;
+  padding: 1rem;
+  background: var(--dark-bg);
+  font-size: 1rem;
+  line-height: 1.5;
+  margin-bottom: var(--spacing);
+}
+
+blockquote {
+  margin: 0;
+  padding: 0;
+  grid-column: 2 / span 9;
+  margin-bottom: var(--spacing);
+}
+
+blockquote p {
+  color: black;
+  background-color: white;
+  font-size: 1rem;
+  display: inline;
+  line-height: 1;
+}
+
+.left {
+  grid-column: 6 / 12;
+}
+
+.message {
+  z-index: 99;
+  color: white;
+  position: absolute;
+  font-size: large;
+  width: 800px;
+  margin: 0 auto;
+  background: var(--dark-bg);
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 99;
+  max-width: 90%;
+}
+.center {
+  padding: 10px;
+  width: 100%;
+  position: relative;
+  background: var(--dark-bg);
+  color: #fff;
+  max-width: 400px;
+  font-weight: bold;
+  font-family: Tahoma;
+}

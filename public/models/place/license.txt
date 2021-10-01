@@ -1,0 +1,11 @@
+Model Information:
+* title:	Happy Halloween
+* source:	https://sketchfab.com/3d-models/happy-halloween-f969f211d8914c12a56cdb4c08829920
+* author:	JessSwynn (https://sketchfab.com/JessSwynn)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Happy Halloween" (https://sketchfab.com/3d-models/happy-halloween-f969f211d8914c12a56cdb4c08829920) by JessSwynn (https://sketchfab.com/JessSwynn) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

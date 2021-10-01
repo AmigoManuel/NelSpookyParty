@@ -1,0 +1,11 @@
+Model Information:
+* title:	Snow Pea (Plants vs. Zombies)
+* source:	https://sketchfab.com/3d-models/snow-pea-plants-vs-zombies-5eb5f7b490e84c4ea0684816b261d4af
+* author:	nadjkristian (https://sketchfab.com/nadjkristian)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Snow Pea (Plants vs. Zombies)" (https://sketchfab.com/3d-models/snow-pea-plants-vs-zombies-5eb5f7b490e84c4ea0684816b261d4af) by nadjkristian (https://sketchfab.com/nadjkristian) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
