@@ -1,7 +1,7 @@
 <h1 align="center">NelSpookyParty</h1>
 
+<p align="center">Este repositorio almacena una simple animación para inivitar gente a mi cumple</p>
 <h2 align="center">
-<p>Este repositorio almacena una simple animación para inivitar gente a mi cumple</p>
 <p style="font-size: 100px">🎃</p>
 </h2>
 
